@@ -1,0 +1,6 @@
+{
+  "name": "Jameel Bakers",
+  "description": "Premium Bakery in Hala, Pakistan - Fresh Cakes, Pastries, and fast delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
